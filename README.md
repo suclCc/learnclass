@@ -14,4 +14,14 @@
 [简书](http://www.jianshu.com)
 [baidu](http://www.baidu.com)
 
-'hello world'
+`hello word`
+
+```
+for(){
+}
+if(){
+
+}else{
+
+}
+```
